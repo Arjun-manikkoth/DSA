@@ -1,5 +1,0 @@
-heap.push(11)
-heap.push(9)
-heap.push(77)
-heap.push(12)
-heap.push(44)
